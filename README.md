@@ -17,6 +17,6 @@ URL
 
 Frontend: https://github.com/KoreaCodingKing/CloneCoding-socialapp
 
-Backend: https://github.com/KoreaCodingKing/CloneCoding-socialappfunction(현재 페이지)
+Backend: https://github.com/KoreaCodingKing/CloneCoding-socialappfunction   (현재 페이지)
 
 배포 : https://socialapp-ee961.firebaseapp.com/
